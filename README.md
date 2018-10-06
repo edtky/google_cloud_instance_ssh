@@ -1,7 +1,7 @@
 #  Creating a Google Cloud instance with SSH for your team
 **Author:** Edward T (edwardtky@berkeley.edu)
 
-Follow these steps to create a basic virtual machine instance on Google Cloud and enable your team to ssh remotely into the instance.
+Follow these steps in the iPython Notebook to create a basic virtual machine instance on Google Cloud and enable your team to ssh remotely into the instance.
 
 
 ## Things you will learn:
